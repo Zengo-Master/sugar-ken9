@@ -55,3 +55,15 @@ Ruby/Ruby on Rails/HTML/CSS/MySQL/Github/Visual Studio Code
 | gote_id   | integer | null: false |
 | result_id | integer | null: false |
 | kifu      | text    | null: false |
+
+# DB
+
+CLEARDB_DATABASE_URL: mysql://bd672d3b7396bb:2b84381b@us-cdbr-east-03.cleardb.com/heroku_746fb5c97f0b6af?reconnect=true
+DATABASE_URL:         mysql2://bd672d3b7396bb:2b84381b@us-cdbr-east-03.cleardb.com/heroku_746fb5c97f0b6af?reconnect=true
+
+# Sequel Pro on Heroku
+
+ユーザー名：bd672d3b7396bb
+パスワード：2b84381b
+ホスト：us-cdbr-east-03.cleardb.com
+データベース名：heroku_746fb5c97f0b6af
