@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sugar-Ken</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag 'application', media: 'all' %>
+    <%= javascript_pack_tag 'application' %>
+  </head>
+
+  <body>
+    <div class="header">
+      <span class="title">第8回しゅが研</span><span class="start">毎週金曜日20時〜 @将棋倶楽部24 東京道場</span>
+    </div>
+    <%= yield %>
+    <div class="footer">
+      <div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,9 @@
+ja:
+ activerecord:
+   attributes:
+     kifu:
+       date: 日付
+       sente_id: 先手
+       gote_id: 後手
+       result_id: 結果
+       kifu: 棋譜
