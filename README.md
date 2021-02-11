@@ -1,12 +1,12 @@
 # アプリ名
-sugar-ken8
+sugar-ken9
 
 # 概要
 <p>オンライン将棋大会の対戦記録が行えます。総当たりリーグ戦の結果を手軽に記入し、棋譜も保存できます。また、その棋譜をAIで解析することもできます。</p>
 
 # 本番環境
 ## Heroku
-https://sugar-ken-7.herokuapp.com/
+https://sugar-ken-9.herokuapp.com/
 <p>ユーザー名：zengoma</p>
 <p>パスワード：114514</p>
 
